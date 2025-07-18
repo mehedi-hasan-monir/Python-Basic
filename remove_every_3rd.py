@@ -1,0 +1,2 @@
+# Write a Python program that removes and prints every third number from a list of numbers until the list is empty.
+# link: https://www.w3resource.com/python-exercises/basic/python-basic-1-exercise-3.php
